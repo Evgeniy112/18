@@ -1,0 +1,4 @@
+http://t.me/SomeDiff_ntBot
+Use this token to access the HTTP API:
+5354811824:AAENH_5O6Jaj-K39y5gwLKEsSDlrrqLBFDI
+For a description of the Bot API, see this page: https://core.telegram.org/bots/api
